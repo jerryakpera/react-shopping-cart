@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "_id": "001",
+      "title": "Attire 1",
+      "description": "orem ipsum dolor sit amet, consectetur adipiscing elit",
+      "image": "/images/attire1.jpeg",
+      "price": 7000,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "_id": "002",
+      "title": "Attire 2",
+      "description": "Etiam ultrices finibus hendrerit",
+      "image": "/images/attire2.jpg",
+      "price": 3000,
+      "availableSizes": ["SM", "L", "XXL"]
+    },
+    {
+      "_id": "003",
+      "title": "Attire 3",
+      "description": "Cras mollis ultrices porta",
+      "image": "/images/attire3.jpg",
+      "price": 10000,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "_id": "004",
+      "title": "Attire 4",
+      "description": "Nulla id ornare leo, quis pulvinar quam",
+      "image": "/images/attire4.jpg",
+      "price": 8500,
+      "availableSizes": ["L"]
+    },
+    {
+      "_id": "005",
+      "title": "Attire 5",
+      "description": "Nunc a metus a dolor malesuada dictum",
+      "image": "/images/attire5.jpg",
+      "price": 5500,
+      "availableSizes": ["SM", "L", "MD", "XL"]
+    },
+    {
+      "_id": "006",
+      "title": "Attire 6",
+      "description": "Curabitur ornare, enim at varius lobortis, tortor metus facilisis lacus, vitae mattis massa sem ac lacus",
+      "image": "/images/attire6.jpg",
+      "price": 9000,
+      "availableSizes": ["XL", "XXL"]
+    }
+  ]
+}
