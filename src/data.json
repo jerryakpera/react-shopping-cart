@@ -14,7 +14,7 @@
       "description": "Etiam ultrices finibus hendrerit",
       "image": "/images/attire2.jpg",
       "price": 3000,
-      "availableSizes": ["SM", "L", "XXL"]
+      "availableSizes": ["S", "L", "XXL"]
     },
     {
       "_id": "003",
@@ -38,7 +38,7 @@
       "description": "Nunc a metus a dolor malesuada dictum",
       "image": "/images/attire5.jpg",
       "price": 5500,
-      "availableSizes": ["SM", "L", "MD", "XL"]
+      "availableSizes": ["M", "L", "S", "XL"]
     },
     {
       "_id": "006",

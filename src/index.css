@@ -122,7 +122,7 @@ footer {
   font-size: 2rem;
   font-weight: bold;
   border: 1px solid #f0c040;
-  padding: 0.6rem;
+  padding: 0.75rem;
 }
 
 .product p {
@@ -144,4 +144,17 @@ footer {
 }
 .button.primary {
   background-color: #f0c040;
+}
+
+/* FILTER  */
+.filter {
+  display: flex;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: 0.1rem solid #ccc;
+  justify-content: space-between;
+}
+
+.filter div {
+  flex: 1;
 }

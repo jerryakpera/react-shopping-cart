@@ -10,7 +10,9 @@ const Products = ({ products }) => {
             <div className="product">
               <a href={'#' + product._id}>
                 <img src={product.image} alt={product.title} />
-                <p>{product.title}</p>
+                <p>
+                  {product.title} ({product.availableSizes.join(', ')})
+                </p>
               </a>
               <div className="product-price">
                 <div>{formatCurrency(product.price)}</div>
